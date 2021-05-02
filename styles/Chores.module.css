@@ -3,7 +3,7 @@
   background: #ccc;
   display: block;
   margin: 20px 10px;
-  border-left: 8px solid #fff;
+  border-left: 10px solid #fff;
 }
 .single:hover {
   border-left: 8px solid #4979ff;
